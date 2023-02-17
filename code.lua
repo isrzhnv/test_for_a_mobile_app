@@ -1,3 +1,4 @@
+function myCodeFunction()
 -- Define a table of search suggestions
 local searchSuggestions = {"Apple", "Banana", "Cherry", "Grape", "Lemon", "Mango", "Orange", "Pineapple", "Strawberry", "Watermelon"}
 
@@ -61,3 +62,6 @@ end
 -- Add event listeners to the search bar and autocomplete suggestions
 searchBar:addEventListener("userInput", onSearchBarInput)
 autocompleteGroup:addEventListener("tap", onSuggestionSelected)
+
+  end
+myCodeFunction()
