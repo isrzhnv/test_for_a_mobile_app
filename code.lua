@@ -1,1 +1,4 @@
-print("Hello, world!")
+local function test
+  print("Hello, world!")
+end
+return test
