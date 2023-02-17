@@ -1,1 +1,4 @@
-1234567890
+"local function test
+  print("Hello, world123!")
+end
+return test"
