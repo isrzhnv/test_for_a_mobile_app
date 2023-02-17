@@ -3,7 +3,7 @@ local searchSuggestions = {"Apple", "Banana", "Cherry", "Grape", "Lemon", "Mango
 
 -- Create the search bar text field
 local searchBar = native.newTextField( display.contentCenterX, 200, 280, 36 )
-searchBar.placeholder = "Search for some fruits"
+searchBar.placeholder = "Search for some fruits - v.3.0"
 
 -- Create a group to hold the autocomplete suggestions
 local autocompleteGroup = display.newGroup()
