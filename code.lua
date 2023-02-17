@@ -1,4 +1,4 @@
 "local function test
-  print("Hello, world123!")
+  print("Hello, world 123!")
 end
 return test"
