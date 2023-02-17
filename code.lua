@@ -1,4 +1,4 @@
-local function test
+"local function test
   print("Hello, world!")
 end
-return test
+return test"
