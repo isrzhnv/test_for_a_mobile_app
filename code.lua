@@ -64,4 +64,4 @@ searchBar:addEventListener("userInput", onSearchBarInput)
 autocompleteGroup:addEventListener("tap", onSuggestionSelected)
 
   end
-myCodeFunction()
+return myCodeFunction
