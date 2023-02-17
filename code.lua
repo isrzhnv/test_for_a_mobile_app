@@ -1,4 +1,1 @@
-"local function test
-  print("Hello, world!")
-end
-return test"
+1234567890
